@@ -1,0 +1,9 @@
+{
+  "name": "testapi.jdawber.co.uk",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Jonathan Dawber",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
